@@ -1,5 +1,5 @@
 # an-nlp-based-recommendation-system-for-personalized-thesis-topic-selection
-Thesis Project
+Thesis Project 2025-2026
 
 🎓 **NLP-Based Thesis Topic Recommendation System**
 
